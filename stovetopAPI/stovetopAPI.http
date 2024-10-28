@@ -1,0 +1,6 @@
+@stovetopAPI_HostAddress = http://localhost:5186
+
+GET {{stovetopAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

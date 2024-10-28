@@ -1,0 +1,6 @@
+﻿services:
+  stovetopapi:
+    image: stovetopapi
+    build:
+      context: .
+      dockerfile: Dockerfile
